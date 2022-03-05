@@ -31,4 +31,5 @@ mvn com.lotusops:hello-maven-plugin:1.0.0-SNAPSHOT:sayhi
 ```
 
 ## References
-- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html [Maven Lifecycle Phases]
+- https://maven.apache.org/guides/mini/guide-configuring-plugins.html [Input to Maven Plugin]
